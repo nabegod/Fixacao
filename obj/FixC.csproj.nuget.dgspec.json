@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W517280\\Desktop\\FixC\\Fixacao\\Fixacao.csproj": {}
+    "C:\\Users\\W517280\\Desktop\\FixC\\FixC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W517280\\Desktop\\FixC\\Fixacao\\Fixacao.csproj": {
+    "C:\\Users\\W517280\\Desktop\\FixC\\FixC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W517280\\Desktop\\FixC\\Fixacao\\Fixacao.csproj",
-        "projectName": "Fixacao",
-        "projectPath": "C:\\Users\\W517280\\Desktop\\FixC\\Fixacao\\Fixacao.csproj",
+        "projectUniqueName": "C:\\Users\\W517280\\Desktop\\FixC\\FixC.csproj",
+        "projectName": "FixC",
+        "projectPath": "C:\\Users\\W517280\\Desktop\\FixC\\FixC.csproj",
         "packagesPath": "C:\\Users\\W517280\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W517280\\Desktop\\FixC\\Fixacao\\obj\\",
+        "outputPath": "C:\\Users\\W517280\\Desktop\\FixC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W517280\\AppData\\Roaming\\NuGet\\NuGet.Config",

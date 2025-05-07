@@ -1,0 +1,15 @@
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.csproj.AssemblyReference.cache
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.AssemblyInfoInputs.cache
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.AssemblyInfo.cs
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.csproj.CoreCompileInputs.cache
+C:\Users\W517280\Desktop\FixC\bin\Debug\net6.0\FixC.exe
+C:\Users\W517280\Desktop\FixC\bin\Debug\net6.0\FixC.deps.json
+C:\Users\W517280\Desktop\FixC\bin\Debug\net6.0\FixC.runtimeconfig.json
+C:\Users\W517280\Desktop\FixC\bin\Debug\net6.0\FixC.dll
+C:\Users\W517280\Desktop\FixC\bin\Debug\net6.0\FixC.pdb
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.dll
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\refint\FixC.dll
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.pdb
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\FixC.genruntimeconfig.cache
+C:\Users\W517280\Desktop\FixC\obj\Debug\net6.0\ref\FixC.dll
