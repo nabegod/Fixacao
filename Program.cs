@@ -8,7 +8,7 @@ namespace Fixacao
     {
         static void Main(string[] args)
         {
-            /* Console.WriteLine("Digite um número: ");
+             Console.WriteLine("Digite um número: ");
             int a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite um número: ");
@@ -42,29 +42,35 @@ namespace Fixacao
             {
                 Console.WriteLine($"{b} é ímpar.");
             }
-            */
+            
+
+
+        // Exercicio 2 - Calcular a média de 3 números utilizano o else if 
+
+
 
             Console.WriteLine("Digite um número: ");
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int c = int.Parse(Console.ReadLine());
+            int n1 = int.Parse(Console.ReadLine());
+            int n2 = int.Parse(Console.ReadLine());
+            int n3 = int.Parse(Console.ReadLine());
 
-            if (a > b && a > c)
+            if (n1 > n2 && n1 > n3)
             {
-                Console.WriteLine($"{a} é o maior número.");
+                Console.WriteLine($"{n1} é o maior número.");
             }
-            else if (b > a && b > c)
+            else if (n2 > n1 && n2 > n3)
             {
-                Console.WriteLine($"{b} é o maior número.");
+                Console.WriteLine($"{n2} é o maior número.");
             }
-            else if (c > a && c > b)
+            else if (n3 > n1 && n3 > n2)
             {
-                Console.WriteLine($"{c} é o maior número.");
+                Console.WriteLine($"{n3} é o maior número.");
             }
             else
             {
                 Console.WriteLine("Os números são iguais.");
             }
+            
         }
     }
 }
