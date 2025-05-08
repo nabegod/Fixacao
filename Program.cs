@@ -21,6 +21,27 @@ namespace Fixacao
             int resto = a % b;
 
             Console.WriteLine($"A soma é: {soma}");
+            Console.WriteLine($"A subtração é: {subtracao}");
+            Console.WriteLine($"A multiplicação é: {multiplicacao}");
+            Console.WriteLine($"A divisão é: {divisao}");
+            Console.WriteLine($"O resto da divisão é: {resto}");
+
+            if (a % 2 == 0)
+            {
+                Console.WriteLine($"{a} é par.");
+            }
+            else
+            {
+                Console.WriteLine($"{a} é ímpar.");
+            }
+            if (b % 2 == 0)
+            {
+                Console.WriteLine($"{b} é par.");
+            }
+            else
+            {
+                Console.WriteLine($"{b} é ímpar.");
+            }
         }
     }
 }
