@@ -8,7 +8,7 @@ namespace Fixacao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um número: ");
+            /* Console.WriteLine("Digite um número: ");
             int a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite um número: ");
@@ -41,6 +41,29 @@ namespace Fixacao
             else
             {
                 Console.WriteLine($"{b} é ímpar.");
+            }
+            */
+
+            Console.WriteLine("Digite um número: ");
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            int c = int.Parse(Console.ReadLine());
+
+            if (a > b && a > c)
+            {
+                Console.WriteLine($"{a} é o maior número.");
+            }
+            else if (b > a && b > c)
+            {
+                Console.WriteLine($"{b} é o maior número.");
+            }
+            else if (c > a && c > b)
+            {
+                Console.WriteLine($"{c} é o maior número.");
+            }
+            else
+            {
+                Console.WriteLine("Os números são iguais.");
             }
         }
     }
